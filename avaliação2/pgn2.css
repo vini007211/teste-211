@@ -1,0 +1,29 @@
+@font-face {
+    font-family:old school ;
+    src: url(../avaliação2/varsity_2/varsity_regular.ttf);
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#img {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family:old school;
+    background-image: url(../avaliação2/travis\ scott\ wallpaper\ pc.jpg);
+    padding-bottom: 395px;
+    padding-top: 30px;
+    padding-left: 60px;
+}
+.TEXT {color: rgb(255, 255, 255);
+}
+.border1 {
+    border:groove blue 5px ;
+}
+.border2 {
+    border:groove blue 5px ;
+}
+.border3 {
+    border:groove orangered 5px ;
+}

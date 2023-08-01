@@ -1,0 +1,95 @@
+@font-face {
+    font-family: richu;
+    src: url(../avaliação2/superstar_m54/Superstar\ M54.ttf);
+}
+@font-face {
+    font-family: fire;
+    src: url(../avaliação2/hellbone/Hellbone-Demo.otf);
+}
+@font-face {
+    font-family: skull;
+    src: url(../avaliação2/font/army_rust/ARMY\ RUST.ttf);
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+background-image: url(../avaliação2/nike5.jpg);
+background-size: 750px;
+background-repeat: no-repeat;
+background-position-x: 600px;
+background-position-y: 60px;
+}
+#cabecalho {
+width: 1700px;
+height:  90px;
+background-color: rgb(75, 75, 75);
+text-align: center;
+margin-left: 100px;
+line-height: 90px;
+}
+
+.a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: richu;
+    border: 5px outset rgb(183, 0, 255);
+    border-radius: 3px;
+    padding: 10px 30px;
+    background-color: black;
+}
+.feedback {
+    color: rgb(0, 0, 0);
+border: 10px groove rgb(0, 0, 0);
+background-color: rgb(183, 0, 255);
+}
+#logo {
+    width: 120px;
+float: right;
+border-left: 30px groove rgb(183, 0, 255);
+}
+#move {
+    padding: 630px 870px 0px 870px;
+}
+#logo2 {
+    background-color: rgb(0, 0, 0);
+    width: 106px;
+    float: left;
+    padding-bottom: 0px;
+    padding-right: 100px;
+    border-right: solid 5px rgb(48, 48, 48);
+    border-top-right-radius:100px ;
+    border-bottom-right-radius:100px ;
+}
+.cabecalho2 {
+background-color: black;
+float: left; 
+}
+.img {
+    background-color: black;
+    width: 115px;  
+}
+.padding {
+padding-top: 50px;
+}
+header {
+    text-align: center;
+}
+.design {
+    font-family: skull;
+}
+.sim {
+    color: rgb(0, 0, 0);
+    font-family: skull;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+}
+.nao {
+
+    color: rgb(0, 0, 0);
+    font-family: skull;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+
+}

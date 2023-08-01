@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#imge {
+display: flex; 
+align-items:flex-end;
+padding-top: 450px;
+padding-left: 40px;
+}
+.banner{
+    background-image: url(../avaliação2/POPULAR\ 2D\ CAD\ EXERCISES\ -\ NIKE\ LOGO.png) ;
+    background-size: 1370px 700px;
+    background-repeat: no-repeat;
+}
